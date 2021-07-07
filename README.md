@@ -1,0 +1,1 @@
+# Assignment_day2_javascript.js
